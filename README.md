@@ -1,7 +1,7 @@
 # 🤖 Dory Robot - An Interactive AI-Powered Learning Companion  
 
 ### 📌 Overview  
-Dory Robot is an educational assistant robot designed to enhance learning experiences through *sentiment analysis, speech interaction, and movement. It features an **offline chatbot* that enables real-time conversations without an internet connection.  
+Dory Robot is an educational assistant robot designed to enhance learning experiences through sentiment analysis, speech interaction, and movement. It features an **offline chatbot* that enables real-time conversations without an internet connection.  
 
 ### 🔧 Key Features  
 - 🎭 Sentiment Analysis: Recognizes emotions & responds accordingly.  
@@ -28,4 +28,4 @@ Dory Robot is an educational assistant robot designed to enhance learning experi
 - Improve Sentiment Accuracy with deep learning models.  
 - Enhance Voice Commands with NLP-based contextual understanding.  
 - Add More Learning Modules for different subjects.
--
+
